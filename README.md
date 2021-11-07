@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there, I am Yakup Akkaya! 
+
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/yakupakkaya_)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akkayayakup/)
 
 <!--
 **yakupakkaya/YakupAkkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
